@@ -1,43 +1,19 @@
 # Playbooks
 
-## Product
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
-- Developing a product strategy
-- Defining business outcomes
+[Playbooks](playbook-template.md) make an easy entry point to quickly getting on the path to improvement and act as guides to deeper learning.
 
-## Agile
+## [Product](./product/README.md)
 
-- Agile values and principles
-- [Methodologies](./agile/methodologies.md)
-- Story Slicing Techniques
+## [Agile](./agile/README.md)
 
-## DevOps
+## [DevOps](./devops/README.md)
 
-- 3 Ways
-- Value Stream Mapping
-- Trunk Based Development
-- ATDD/BDD
-- TDD
-- CI/CD
-- Test Automation
+## [First Aid Kit](./first-aid/README.md)
 
-## First Aid Kit
-
-- How to get started
-- Common problems and solutions
-- Where to get help
-
-## FAQs
-
-## Successes
-
-- Tell the story!
+## [FAQs](faq.md)
   
-## Culture
+## [Culture](./culture/README.md)
 
-- Culture Charter to help team adopt the culture of DevOps
-- Change Champion Network
-  
-## Metrics
-
-- Determine what Metrics/KPIs that determine how you are achieving your transformation goals
+## [Metrics](./metrics/README.md)
